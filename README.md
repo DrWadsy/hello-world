@@ -1,5 +1,4 @@
 # hello-world
-Basic Hello World repo
 
 I really need to be using git for my version control.
 
